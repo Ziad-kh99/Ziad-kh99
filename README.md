@@ -4,11 +4,10 @@ I'm Ziad from Egypt, and I'm a fresh backend developer.<br>
 I graduated from Faculty of Specific Education(Education Technology Department), at Aswan University since 2022.<br>
 I have focused on web development with a primary focus on the Backend side.<br>
 
-### Contact with me:
-Email: <a href="mailto:ziad_dev@hotmail.com">ziad_dev@hotmail.com</a>
-<br>
-LinkedIn: <a href='https://www.linkedin.com/in/ziad99/'>LinkedIn</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ziad99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad99" height="30" width="40" /></a>
+</p>
 <!--
 **Ziad-kh99/Ziad-kh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
