@@ -5,7 +5,7 @@ I graduated from Faculty of Specific Education(Education Technology Department),
 I have focused on web development with a primary focus on the Backend side.<br>
 
 <h3 align="left">Connect with me:</h3>
-Email: <a href="mailto:ziad_dev@hotmail.com">ziad_dev@hotmail.com</a><br><br>
+Email: <a href="mailto:ziad.dev99@gmail.com">ziad.dev99@gmail.com</a><br><br>
 <p align="left">
 <a href="https://linkedin.com/in/ziad99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad99" height="30" width="40" /></a>
 <a href="https://twitter.com/ziad_kh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziad_kh99" height="30" width="40" /></a>
