@@ -1,40 +1,70 @@
-### Hi there 👋
+### Hi there, I'm Ziad 👋
 
-I'm Ziad from Egypt, and I'm a fresh backend developer.<br>
-I graduated from Faculty of Specific Education(Education Technology Department), at Aswan University since 2022.<br>
-I have focused on web development with a primary focus on the Backend side.<br>
+A passionate IT Specialist | Sys-Admin and DevOps Enthusiast | Lifelong Learner<be>
+## 🚀 About Me
+- 🔭 I’m currently working as an IT Specialist.
+- 🌱 I'm currently immersing myself in **System Administration** best practices and **DevOps** methodologies, with a strong focus on automation and infrastructure as code.
+- 🌱 I'm actively learning **Linux server management, Docker, Kubernetes, Ansible, and cloud platforms (AWS/Azure/GCP)**.
+- 👯 I'm eager to collaborate on open-source projects related to infrastructure automation, monitoring, or deployment pipelines.
+- 💬 Ask me about network fundamentals, troubleshooting, or anything related to getting started in IT operations!
+  
+---
 
-<h3 align="left">Connect with me:</h3>
-Email: <a href="mailto:ziad.dev99@gmail.com">ziad.dev99@gmail.com</a><br><br>
-<p align="left">
-<a href="https://linkedin.com/in/ziad99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad99" height="30" width="40" /></a>
-<a href="https://twitter.com/ziad_kh99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziad_kh99" height="30" width="40" /></a>
-</p>
+## 🛠️ My Current Skillset & Learning Journey
 
+### **Operating Systems & Virtualization**
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
+[![VMware](https://img.shields.io/badge/VMware-607D8B?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
+### **Cloud & Containerization**
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
+### **Automation & IaC (Infrastructure as Code)**
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+### **Scripting & Networking**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
+---
+
+## 📈 GitHub Stats
 <!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<!-- Leet Code:
-<a href="https://www.leetcode.com/ziad-kh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziad-kh" height="30" width="40" /></a>
--->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ziad-kh99&theme=dark)](https://git.io/streak-stats)
 
-<!--
-**Ziad-kh99/Ziad-kh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Projects & Labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few projects or lab environments I've worked on, demonstrating my journey in SysAdmin and DevOps:
+
+-   **[HiveBox]**: The project aims to cover the whole Software Development Life Cycle (SDLC). That means each phase will cover all aspects of DevOps, such as planning, coding, containers, testing, continuous integration, continuous delivery, infrastructure, etc.
+    -   [Link to Repository]([https://github.com/YOUR_USERNAME/project1-repo](https://github.com/Ziad-kh99/devops-hands-on-project-hivebox))
+    -   Key Skills: `Linux`, `Python`, `Docker`, `Bash`
+ 
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to discussing new technologies, contributing to projects, or sharing insights on IT operations.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad99/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziad.dev99@gmail.com)
+[![X](https://img.shields.io/badge/X-0077B5?style=for-the-badge&labelColor=%23000)](https://x.com/Ziad_kh99)
+---
+
+<div align="center">
+  <h3>Thanks for stopping by! 👋</h3>
+</div>
+
