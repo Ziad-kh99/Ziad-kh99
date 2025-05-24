@@ -50,7 +50,7 @@ A passionate IT Specialist | Sys-Admin and DevOps Enthusiast | Lifelong Learner<
 Here are a few projects or lab environments I've worked on, demonstrating my journey in SysAdmin and DevOps:
 
 -   **[HiveBox]**: The project aims to cover the whole Software Development Life Cycle (SDLC). That means each phase will cover all aspects of DevOps, such as planning, coding, containers, testing, continuous integration, continuous delivery, infrastructure, etc.
-    -   ![Link to Repository]([https://github.com/YOUR_USERNAME/project1-repo](https://github.com/Ziad-kh99/devops-hands-on-project-hivebox))
+    -   ![Link to Repository]([https://github.com/Ziad-kh99/devops-hands-on-project-hivebox](https://github.com/Ziad-kh99/devops-hands-on-project-hivebox))
     -   Key Skills: `Linux`, `Python`, `Docker`, `Bash`
  
 ---
